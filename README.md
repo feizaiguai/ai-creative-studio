@@ -1,6 +1,6 @@
-# Ai Creative Studio
+# AI Creative Studio
 
-Built by Daomei AI
+Build an AI-powered creative studio for generating art, text, and multimedia content
 
 ## Built by
 Daomei AI Assistant 🤖
